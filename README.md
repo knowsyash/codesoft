@@ -1,8 +1,4 @@
 # codesoft
-Here's a professional README file for your GitHub profile:
-
----
-
 # Welcome to Yash Singhal's GitHub Profile
 
 ## About Me
@@ -19,7 +15,7 @@ The first task is to create a personal portfolio website. This website will serv
 - **Skills:** A list of technical skills and proficiencies.
 - **Contact:** Ways to get in touch with me.
 
-**Technologies Used:** HTML, CSS, JavaScript
+**Technologies Used:** HTML, CSS
 
 ### Task 2: Develop a Cool Project of My Choice
 **Description:**  
@@ -38,4 +34,4 @@ I am thrilled to embark on this journey and look forward to sharing my progress 
 
 ---
 
-Feel free to customize this README file further to match your personal style and preferences.
+
